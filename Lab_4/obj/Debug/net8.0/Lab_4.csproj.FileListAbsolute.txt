@@ -1,0 +1,65 @@
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\appsettings.json
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.exe
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.deps.json
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.runtimeconfig.json
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.dll
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.pdb
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.csproj.AssemblyReference.cache
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.AssemblyInfoInputs.cache
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.AssemblyInfo.cs
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.sourcelink.json
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets\msbuild.Lab_4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab_4.props
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab_4.props
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab_4.props
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\scopedcss\bundle\Lab_4.styles.css
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.csproj.CopyComplete
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.dll
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\refint\Lab_4.dll
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.pdb
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.genruntimeconfig.cache
+C:\Users\xiaomi\Desktop\Бэк\lab-10-kaora0\Lab_4\Lab_4\obj\Debug\net8.0\ref\Lab_4.dll
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\appsettings.json
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.exe
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.deps.json
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.runtimeconfig.json
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.dll
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.pdb
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.csproj.AssemblyReference.cache
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.AssemblyInfoInputs.cache
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.AssemblyInfo.cs
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets\msbuild.Lab_4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab_4.props
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab_4.props
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab_4.props
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\scopedcss\bundle\Lab_4.styles.css
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.csproj.CopyComplete
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.dll
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\refint\Lab_4.dll
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.pdb
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.genruntimeconfig.cache
+C:\Users\xiaomi\Desktop\то, что надо выложить\Web\Lab_4\Lab_4\obj\Debug\net8.0\ref\Lab_4.dll

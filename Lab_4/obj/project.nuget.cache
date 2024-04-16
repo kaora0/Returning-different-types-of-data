@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GkoIlH59Dysr+hQhs5gpWQGXiBxce5+os9SNG0gB/hcggD7aOa6KvzjD9S1t9f9b3/hhtz/vp563k3hC5Gtrsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xiaomi\\Desktop\\то, что надо выложить\\Web\\Lab_4\\Lab_4\\Lab_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xiaomi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\xiaomi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\xiaomi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\xiaomi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\xiaomi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\xiaomi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
